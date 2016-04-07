@@ -15,6 +15,7 @@
 		84678AEE1CB62FC70079FA5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84678AEC1CB62FC70079FA5E /* LaunchScreen.storyboard */; };
 		84678AF61CB62FCF0079FA5E /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 84678AF51CB62FCF0079FA5E /* Podfile */; };
 		84678AF81CB649060079FA5E /* Banner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84678AF71CB649060079FA5E /* Banner.swift */; };
+		84678AFA1CB65F330079FA5E /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84678AF91CB65F330079FA5E /* MainViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		84678AEF1CB62FC70079FA5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84678AF51CB62FCF0079FA5E /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		84678AF71CB649060079FA5E /* Banner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Banner.swift; sourceTree = "<group>"; };
+		84678AF91CB65F330079FA5E /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		D8E974BDB33A8117C052CC77 /* Pods-ImageSlideA2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ImageSlideA2.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ImageSlideA2/Pods-ImageSlideA2.debug.xcconfig"; sourceTree = "<group>"; };
 		F5B3E55096FD2B56B8661D56 /* Pods_ImageSlideA2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ImageSlideA2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -90,6 +92,7 @@
 				84678AEC1CB62FC70079FA5E /* LaunchScreen.storyboard */,
 				84678AEF1CB62FC70079FA5E /* Info.plist */,
 				84678AF71CB649060079FA5E /* Banner.swift */,
+				84678AF91CB65F330079FA5E /* MainViewController.swift */,
 			);
 			path = ImageSlideA2;
 			sourceTree = "<group>";
@@ -221,6 +224,7 @@
 				84678AE61CB62FC70079FA5E /* ViewController.swift in Sources */,
 				84678AE41CB62FC70079FA5E /* AppDelegate.swift in Sources */,
 				84678AF81CB649060079FA5E /* Banner.swift in Sources */,
+				84678AFA1CB65F330079FA5E /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
